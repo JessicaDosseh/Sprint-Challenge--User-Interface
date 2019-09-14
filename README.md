@@ -34,15 +34,38 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+<!-- MY ANSWER -->
+Semantic HTML: is the process of providing meaning to your content, making your website readable and easily interpreted by developers, and machines. Instead of only using [div] tags consider using semantic HTML tags such as: [h1 through h6] — [header] — [section] — [p] — [nav] — [header] — [address] — [footer] — Etc… Note that [div]'s are not bad. They are commonly used when 'describing meaning' isn't your primary goal — also used for creating space, structure, or style elements.
+<!-- END OF ANSWER -->
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+<!-- MY ANSWER -->
+```display: block;``` — Displays items as a block (full with of page) just like how paragraphs and headers have always been. A block has some whitespace above and below it. Elements are not able to stack next to each other unless we use code it to do so.
+
+```display: inline;``` — Displays items that are stacked next to each other inside one particular block. When the inline is between two blocks, it has the smallest possible width.
+<!-- END OF ANSWER -->
 
 3. What are the 4 areas of the box model?
 
+<!-- MY ANSWER -->
+The 4 areas of the box model are: Margin — Border — Padding — Content.
+<!-- END OF ANSWER -->
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+<!-- MY ANSWER -->
+```align-items: center;``` works on the cross-axis.
+<!-- END OF ANSWER -->
 
 5. Explain why git is valuable to a team of developers.
 
+<!-- MY ANSWER -->
+Git is valuable to a team of developers because it tracks the changes we've made to our code files and creates versions / branches that allow us to make changes and move forward without breaking our codebase.
+<!-- END OF ANSWER -->
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+
 
 ## Project Set Up
 
