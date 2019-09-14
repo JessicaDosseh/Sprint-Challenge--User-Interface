@@ -466,6 +466,7 @@ p {
   background-color: darkgray;
   color: white;
   cursor: pointer;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 }
 
 .boxed-content .box img {

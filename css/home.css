@@ -487,33 +487,43 @@ p {
 .boxed-content .box1:hover {
   background-color: teal;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box2:hover {
   background-color: gold;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box3:hover {
   background-color: cadetblue;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box4:hover {
   background-color: coral;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box5:hover {
   background-color: crimson;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box6:hover {
   background-color: forestgreen;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box7:hover {
   background-color: darkorchid;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box8:hover {
   background-color: hotpink;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box9:hover {
   background-color: indigo;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 } .boxed-content .box10:hover {
   background-color: dodgerblue;
   color: white;
+  box-shadow: 0 7px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 20px 0 rgba(0, 0, 6, 0.30);
 }
 
 .info {
